@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naotiki</h1>
-<h3 align="center">A student /A Kotlin-er / A frontend developer from Japan</h3>
+<h3 align="center">A student /A Kotlin-Lover / A frontend developer from Japan</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naotiki&theme=tokyonight)
 
