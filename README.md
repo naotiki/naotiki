@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naotiki</h1>
-<h3 align="center">A student /A Kotlin-Lover / A frontend developer from Japan</h3>
-<p align="center"> <a href="https://twitter.com/naotikikt" target="blank"><img src="https://img.shields.io/twitter/follow/naotikikt?logo=twitter&style=for-the-badge" alt="naotikikt" /></a> </p>
+<h3 align="center">A student / A Kotlin-Lover / A frontend developer from Japan</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naotiki&theme=github_dark)
 
